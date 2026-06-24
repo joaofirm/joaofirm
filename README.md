@@ -14,11 +14,11 @@
 
 ## 📑 Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e profissional de TI focado em infraestrutura de redes, administração de sistemas e segurança defensiva (Blue Team). Dedico meu conhecimento técnico para projetar, monitorar e proteger ambientes corporativos simulados e ativos reais.
+Sou estudante de Análise e Desenvolvimento de Sistemas e profissional de TI focado em infraestrutura de redes, administração de sistemas e segurança defensiva (Blue Team). Estou construindo experiência prática em infraestrutura, monitoramento e segurança através de laboratórios próprios, projetos documentados e estudos contínuos.
 
 Acredito firmemente na filosofia de aprender construindo e documentando. Por isso, utilizo meu ecossistema de laboratório local para validar conceitos de segurança, analisar tráfego e aplicar políticas estritas de hardening.
 
-*   🛡️ **Foco de Atuação:** Segurança Defensiva, Hardening de Servidores/Ativos e Firewalls.
+*   🛡️ **Foco de Estudo:** Infraestrutura, Redes, Active Directory, Monitoramento e Segurança Defensiva (Blue Team).
 *   ⚙️ **Metodologia:** Prática contínua combinada com forte documentação técnica e arquitetura de sistemas.
 *   🚀 **Objetivo de Carreira:** Me tornar um especialista versátil em Segurança da Informação e Engenharia de Infraestrutura.
 
@@ -52,7 +52,36 @@ Para elevar o nível das minhas análises de segurança e automação de infraes
 
 *   🎓 **Graduação:** Análise e Desenvolvimento de Sistemas (ADS).
 *   📚 **Especializações:** Trilha de Infraestrutura & Telecomunicações (240h) | DevOps Bootcamp.
-*   🛡️ **Roadmap de Certificações:** ISC² Certified in Cybersecurity (CC) *[Planned]* | Microsoft SC-900 *[Planned]* | CompTIA Security+ *[Future]*.
+*   🛡️ **Roadmap de Certificações:** Microsoft SC-900 *[Scheduled]* | ISC² Certified in Cybersecurity (CC) *[Planned]* | CompTIA Security+ *[Future]*.
+
+---
+
+## 🏠 Featured Project
+
+### Homelab Cybersecurity
+
+A hands-on project focused on building an enterprise-like infrastructure from scratch.
+
+Current technologies:
+
+- VMware Workstation Pro
+- Windows Server 2022
+- Active Directory
+- DNS
+- Group Policy
+- pfSense
+- Wazuh
+- Zabbix
+- Linux Administration
+
+The entire journey is documented through:
+
+- Technical Documentation
+- Runbooks
+- Architecture Diagrams
+- Learning Journal
+
+📌 Goal: Build practical experience before entering the cybersecurity and infrastructure market.
 
 ---
 
